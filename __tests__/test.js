@@ -1,4 +1,8 @@
 const string = require('../src/string');
+const fonction = require('../src/function');
+const Student = require('../src/student');
+const easy = require('../src/examen').easy;
+const hard = require('../src/examen').hard;
 // Futher import's module 
 
 test('default export of module string return "Hi"', () => {
